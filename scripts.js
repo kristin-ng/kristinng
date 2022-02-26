@@ -6,7 +6,7 @@ var typewriter = new Typewriter(app, {
     deleteSpeed:5
 });
 
-typewriter.typeString('hey there!')
+typewriter.typeString('hi there!')
     .pauseFor(1000)
     .deleteAll()
     .pauseFor(500)
@@ -26,7 +26,11 @@ typewriter.typeString('hey there!')
     .pauseFor(1000)
     .deleteAll()
     .pauseFor(500)
-    .typeString("i'm like to cook and go out (check out my food insta!).")
+    .typeString("i like to cook and bake.")
+    .pauseFor(1000)
+    .deleteAll()
+    .pauseFor(500)
+    .typeString("check out my food insta :)")
     .pauseFor(1000)
     .deleteAll()
     .pauseFor(500)
