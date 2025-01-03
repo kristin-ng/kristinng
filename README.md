@@ -1,3 +1,3 @@
 # kristinng
 
-www.kristinng.info
+this is an outdated website
